@@ -1,0 +1,3 @@
+C:/Users/Anna/Desktop/git/pkari/cmake-build-debug/CMakeFiles/pkari.dir
+C:/Users/Anna/Desktop/git/pkari/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Anna/Desktop/git/pkari/cmake-build-debug/CMakeFiles/rebuild_cache.dir
