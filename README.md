@@ -78,7 +78,7 @@ int main()
 {
     ft_printf("1. print int (%%d): %d\n", 1234);
     ft_printf("2. print int (%%i): %.6d\n", 1234);
-    ft_printf("3. Print unsigned int (%%u): %u\n", -1234);
+    ft_printf("3. print unsigned int (%%u): %u\n", -1234);
     ft_printf("4. print unsigned hex (%%x): %#x\n", 1234);
     ft_printf("5. print unsigned hex (%%X): %#X\n", -1234);
     ft_printf("6. print char (%%c): %c\n", 70);
