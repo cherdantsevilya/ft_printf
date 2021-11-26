@@ -24,7 +24,7 @@ ___
 To print some message, use the line below as a prototype
 
 ```c
-    ft_printf(" ... %[flags][width][.precision][length]type", ... );
+  ft_printf(" ... %[flags][width][.precision][length]type", ... );
 ```
 
 All that is in brackets is:
